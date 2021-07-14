@@ -1,3 +1,3 @@
 # weather-app
-Simple weather app with a form to see current weather at different locations
-Uses the openweathermap.org
+# Simple weather app with a form to see current weather at different locations
+# Uses the openweathermap.org
