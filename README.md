@@ -1,4 +1,4 @@
 # weather-app
-Simple weather app with a form to see current weather at different locations    
+Simple weather app to see current weather at every location   
   
 Uses the openweathermap.org WEBAPI
